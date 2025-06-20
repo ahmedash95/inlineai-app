@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>inlineai-1</title>
+        <title>inlineai-1.2</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Fri, 20 Jun 2025 23:32:35 +0200</pubDate>
+            <title>1.2</title>
+            <pubDate>Fri, 20 Jun 2025 23:56:12 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ahmedash95/inlineai-app/releases/download/1.1/inlineai-1.1.dmg" length="2566954" type="application/octet-stream" sparkle:edSignature="QL4GsduE66O8JcuANeiDQi6jGVTNHwfVZnQWUUzTbhnoPn6iUZKal04wACfap7LU5AvtyXm9cOJ/wrs3ekWgBw=="/>
+            <enclosure url="https://github.com/ahmedash95/inlineai-app/releases/download/1.2/inlineai-1.2.dmg" length="1805183" type="application/octet-stream" sparkle:edSignature="AVL57WW4sCoJgjhG9TnAmQDIFEo93TKlIiJVjZH50sBkam8HfzPKxUDZU/qnnqnEYBKvlM1H735yBVLpPSX9AQ=="/>
         </item>
     </channel>
 </rss>
