@@ -1,4 +1,4 @@
-# InlineAI binarries
+# InlineAI binaries
 
 We encourage you to open an issue if you have any feedback or if you encounter any problems while using the app. 
 Your insights are valuable to us, as they help us improve the user experience and address any technical difficulties. 
